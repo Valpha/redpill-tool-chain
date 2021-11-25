@@ -1,0 +1,11 @@
+{
+    "extra_cmdline": {
+        "pid": "0x0001",
+        "vid": "0x46f4",
+        "sn": "1440PDN000850",
+        "mac1": "001132EE9AA9"
+    },
+    "synoinfo": {},
+    "ramdisk_copy": {},
+    "extensions": []
+}
